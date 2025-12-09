@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ooiweiliang.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ooi-wei-liang-0b8278327)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ooi-wei-liang-0b8278327)
 
 </div>
 
